@@ -1,0 +1,37 @@
+    
+
+    .carrusel {
+    height: 100vh;
+    display: flex;
+    place-items: center;
+    max-width: 46vh;
+    margin: -253px 0px 0px 0px;
+
+    }
+
+    .carrusel-items {
+    display: flex;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    padding: 25px 0px;
+    }
+
+    .carrusel-item {
+    min-width: 300px;
+    max-width: 500px;
+    height: 300px;
+    }
+
+    .carrusel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    }
+
+
+    .carrusel-item:hover {
+    transform: scale(1.2);
+    }
+
+
+    

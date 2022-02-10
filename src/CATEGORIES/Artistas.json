@@ -1,0 +1,187 @@
+{
+    "Artistas":[
+        {
+            "id": 1,
+            "Nombre": "Beatles shirt",
+            
+            "Color": ["Blanco", "Negro", "Azul", "Rojo", "Amarillo"],
+            "Valor_según_talla": [
+
+                {
+                    "Talla": "X",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "S",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "M", 
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "L",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "XL",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "XXL",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "3XL",
+                    "Valor": "00000"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "Nombre": "",
+            "Color": ["Blanco", "Negro", "Otro"],
+            "Valor_según_talla": [
+
+                {
+                    "Talla": "X",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "S",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "M", 
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "L",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "XL",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "XXL",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "3XL",
+                    "Valor": "00000"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "Nombre": "",
+            "Color": ["Blanco", "Negro", "Otro"],
+            "Valor_según_talla": [
+
+                {
+                    "Talla": "X",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "S",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "M", 
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "L",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "XL",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "XXL",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "3XL",
+                    "Valor": "00000"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "Nombre": "",
+            "Color": ["Blanco", "Negro", "Otro"],
+            "Valor_según_talla": [
+
+                {
+                    "Talla": "X",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "S",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "M", 
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "L",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "XL",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "XXL",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "3XL",
+                    "Valor": "00000"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "Nombre": "",
+            "Color": ["Blanco", "Negro", "Otro"],
+            "Valor_según_talla": [
+
+                {
+                    "Talla": "X",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "S",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "M", 
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "L",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "XL",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "XXL",
+                    "Valor": "00000"
+                },
+                {
+                "Talla": "3XL",
+                    "Valor": "00000"
+                }
+            ]
+        }
+    ]
+}
+    
+        
