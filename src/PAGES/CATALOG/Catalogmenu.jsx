@@ -1,12 +1,12 @@
 
     import React from "react";
-    import { NavLink, Outlet } from "react-router-dom";
-    import '../../styles/Catalog_menu.css';
-    function Catalog_menu() {
+    import { NavLink } from "react-router-dom";
+    import '../../STYLES/Catalog_menu.css';
+    
+    function CatalogMenu() {
         return (
             <div className="catalog_menu_container">
                 <h1>CATALOG</h1>
-                <Outlet/>
                 <ul className="catalog_menu_content">
                     <li>
                         <NavLink to="" style={{textDecoration:"none"}}>
@@ -25,4 +25,4 @@
 
     }
 
-    export {Catalog_menu}
+    export {CatalogMenu}

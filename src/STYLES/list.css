@@ -1,0 +1,82 @@
+
+    /* Here we import our mark's font (Righteous) */
+    @import url('https://fonts.googleapis.com/css2?family=Creepster&family=Outfit&family=Righteous&family=Saira+Condensed:wght@300;400&display=swap');
+
+    /* The styles of our body */
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: #00AAE4;
+        min-height: 133vh;
+        position: relative;
+        padding-bottom: 0vh;
+
+    }
+
+    /* Styles of the main box  */
+    .List {
+        display: flex;  align-items: center; 
+        background-color: black;
+        position: fixed;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+        list-style: none;
+        max-width: 100vw;
+        padding: 13px 0px 4px 0px;
+        bottom: -4.5vw;
+        left: 0;
+        z-index: 5;
+    }
+
+    /* Styles belong to the box that contains all icons de routes */
+    .List li {
+        margin: 0px 71px 0px 0px;
+        padding-left: 10.5px;
+    }
+
+
+    .container {
+        width: 100%;
+    }
+
+    /* Styles of the box that contains our logo */
+    .logo  {
+        display: flex;
+        width: 100%;
+        height: 50%;
+    }
+
+    /* Styles of our logo */
+    .logo img {
+        max-width: 100vw;
+        background-position: center;
+        border-radius: 2%;
+
+    }
+
+    /* Styles of the icon that we bring to the route "Catalog" */
+    .catalog {
+        font-size: 59px;
+        color:#F81196;
+    }
+    
+    /* Styles of the icon that we bring to the route "Home" */
+    .home {
+        font-size: 64px;
+        color:#F81196;
+    }
+
+    /* Styles of the icon that we bring to the route "Cart" */
+    .bag {
+        font-size: 64px;
+        color:#F81196;
+    }
+
+
+
+
+
+
+
+
+
