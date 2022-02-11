@@ -59,18 +59,21 @@
         font-size: 59px;
         color:#F81196;
     }
+    .catalog:hover{color: #fff;}
     
     /* Styles of the icon that we bring to the route "Home" */
     .home {
         font-size: 64px;
         color:#F81196;
     }
+    .home:hover{color: #fff;}
 
     /* Styles of the icon that we bring to the route "Cart" */
     .bag {
         font-size: 64px;
         color:#F81196;
     }
+    .bag:hover{color: #fff;}
 
 
 

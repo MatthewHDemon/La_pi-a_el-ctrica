@@ -26,10 +26,10 @@
                 <div className="color">
                 <p>Seleccionar un color</p>
                 <button onClick={()=>changecolor(0)}>{dataArtist.color[0]}</button>
-                <button onClick={()=>changecolor(1)}>{dataArtist.color[1]}</button>
-                <button onClick={()=>changecolor(2)}>{dataArtist.color[2]}</button>
-                <button onClick={()=>changecolor(3)}>{dataArtist.color[3]}</button>
-                <button onClick={()=>changecolor(4)}>{dataArtist.color[4]}</button>
+                <button style={{"background-color":"red", "color": "white"}}  onClick={()=>changecolor(1)}>{dataArtist.color[1]}</button>
+                <button style={{"background-color":"black", "color": "white"}}  onClick={()=>changecolor(2)}>{dataArtist.color[2]}</button>
+                <button style={{"background-color":"blue", "color": "white"}}  onClick={()=>changecolor(3)}>{dataArtist.color[3]}</button>
+                <button style={{"background-color":"yellow"}}  onClick={()=>changecolor(4)}>{dataArtist.color[4]}</button>
                 </div>
 
                 <div className="addAnddelete_Button">
