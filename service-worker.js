@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/La_pi-a_el-ctrica/precache-manifest.3e8ecc7cf2be7d68ddc47db00ae325e0.js"
+  "/La_pi-a_el-ctrica/precache-manifest.ff530fca15203e366f33b72900983e9d.js"
 );
 
 self.addEventListener('message', (event) => {

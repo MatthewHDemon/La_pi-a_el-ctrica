@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "14d8ea700d99d5a58452151581b098a0",
+    "revision": "f679ae37ec15c6718bf9849f74d6d655",
     "url": "/La_pi-a_el-ctrica/index.html"
   },
   {
-    "revision": "bfcbb8b6d08a03a4fcc0",
-    "url": "/La_pi-a_el-ctrica/static/css/main.611fac48.chunk.css"
+    "revision": "cf199c044939fd910608",
+    "url": "/La_pi-a_el-ctrica/static/css/main.03f20b2f.chunk.css"
   },
   {
-    "revision": "b2946b47171cc416982f",
-    "url": "/La_pi-a_el-ctrica/static/js/2.d0c8a62f.chunk.js"
+    "revision": "8ad309cb899a52d6203e",
+    "url": "/La_pi-a_el-ctrica/static/js/2.ac0b5a66.chunk.js"
   },
   {
-    "revision": "bfcbb8b6d08a03a4fcc0",
-    "url": "/La_pi-a_el-ctrica/static/js/main.2f9b4140.chunk.js"
+    "revision": "cf199c044939fd910608",
+    "url": "/La_pi-a_el-ctrica/static/js/main.bf22476f.chunk.js"
   },
   {
     "revision": "6193f76169d4b9f5b83e",
