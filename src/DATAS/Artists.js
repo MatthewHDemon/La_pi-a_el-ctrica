@@ -50,7 +50,7 @@
             },
             {
                 "id": 2,
-                 "image": [Bonham_Shirt_White, Bonham_Shirt_Black, Bonham_Shirt_Red, Bonham_Shirt_Blue, Bonham_Shirt_Red, Bonham_Shirt_Yellow], 
+                 "image": [Bonham_Shirt_White, Bonham_Shirt_Black, Bonham_Shirt_Red, Bonham_Shirt_Blue, Bonham_Shirt_Yellow], 
                 "title": "John Bonham shirt",
                 "color": ["Blanco", "Negro", "Rojo", "Azul", "Amarillo"],
                 "size": ["X", "S", "M", "L", "XL", "XXL", "3XL" ],
@@ -58,7 +58,7 @@
             },
             {
                 "id": 3,
-                 "image": [Jimy_Shirt_White, Jimy_Shirt_Black, Jimy_Shirt_Red, Jimy_Shirt_Blue, Jimy_Shirt_Red, Jimy_Shirt_Yellow], 
+                 "image": [Jimy_Shirt_White, Jimy_Shirt_Black, Jimy_Shirt_Red, Jimy_Shirt_Blue, Jimy_Shirt_Yellow], 
                 "title": "Jimi Hendrix shirt",
                 "color": ["Blanco", "Negro", "Rojo", "Azul", "Amarillo"],
                 "size": ["X", "S", "M", "L", "XL", "XXL", "3XL" ],
@@ -66,7 +66,7 @@
             },
             {
                 "id": 4,
-                "image": [Kurt_Shirt_White, Kurt_Shirt_Black, Kurt_Shirt_Red, Kurt_Shirt_Blue, Kurt_Shirt_Red, Kurt_Shirt_Yellow], 
+                "image": [Kurt_Shirt_White, Kurt_Shirt_Black, Kurt_Shirt_Red, Kurt_Shirt_Blue, Kurt_Shirt_Yellow], 
                 "title": "Kurt Cobain shirt",
                 "color": ["Blanco", "Negro", "Rojo", "Azul", "Amarillo"],
                 "size": ["X", "S", "M", "L", "XL", "XXL", "3XL" ],
@@ -74,7 +74,7 @@
             },
             {
                 "id": 5,
-                 "image": [Ozzy_Shirt_White, Ozzy_Shirt_Black, Ozzy_Shirt_Red, Ozzy_Shirt_Red, Ozzy_Shirt_Blue, Ozzy_Shirt_Yellow],
+                 "image": [Ozzy_Shirt_White, Ozzy_Shirt_Black, Ozzy_Shirt_Red, Ozzy_Shirt_Blue, Ozzy_Shirt_Yellow],
                 "title": "Ozzy Osbourne shirt",
                 "color": ["Blanco", "Negro", "Rojo", "Azul", "Amarillo"],
                 "size": ["X", "S", "M", "L", "XL", "XXL", "3XL" ],

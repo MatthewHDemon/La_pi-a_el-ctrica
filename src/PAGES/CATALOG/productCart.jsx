@@ -8,10 +8,12 @@
     const changecolor = (a)  => setIndex(a);
     return (
         <div className="card">
-                <p>{dataArtist.title}</p>
+                <h1>{dataArtist.title}</h1>
+                <div className="image">
                 <img src={dataArtist.image[index]} alt="foto" />
-                <p>Selecciona tu talla</p>
+                </div>
                 <div className="talla">
+                <p>Selecciona tu talla</p>
                 <button>{dataArtist.size[0]}</button>
                 <button>{dataArtist.size[1]}</button>
                 <button>{dataArtist.size[2]}</button>
@@ -21,8 +23,8 @@
                 <button>{dataArtist.size[6]}</button>
                 </div>
 
-                <p>Seleccionar un color</p>
                 <div className="color">
+                <p>Seleccionar un color</p>
                 <button onClick={()=>changecolor(0)}>{dataArtist.color[0]}</button>
                 <button onClick={()=>changecolor(1)}>{dataArtist.color[1]}</button>
                 <button onClick={()=>changecolor(2)}>{dataArtist.color[2]}</button>

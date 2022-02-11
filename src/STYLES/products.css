@@ -4,21 +4,25 @@
     text-align: center;
     background-position: center;
     flex-direction: column;
-    margin-top: 150px;
+    margin-top: 0px;
     font-family: 'Righteous', cursive;
-    margin-bottom: 50px;
-    background-color: gray;
+    margin-bottom: -90px;
+    background-color: #C4C4C4;
     max-width: 350px;
-    border-radius: 5%;
+    border-radius: 2%;
     margin-top: 120px;
+    max-height: 850px;
 }
 
 .products button {
     font-family: 'Righteous', cursive;
+    padding: 5px 10px 5px 15px;
+    border-radius: 18%;
+    font-size: 20px;
 }
 
 .addButton {
-    margin-top: 50px;
+    margin-top: 40px;
     margin-bottom: 40px;
 }
 
@@ -26,3 +30,40 @@
     padding-left: 18px;
     margin-bottom: 100px;
 }
+
+.image {
+    max-width: 350px;
+    max-height: 160px;
+}
+
+.image img {
+    width: 88%;
+    border-radius: 3%;
+}
+
+.talla {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 200px;
+    max-height: 56px;
+    padding: 200px 0px 0px 90px;
+    text-align: center;
+    align-content: space-around
+}
+
+.color {
+    max-width: 280px;
+    padding: 60px 0px 0px 25px;
+}
+
+.color p {
+    font-size: 21px;
+
+}
+.talla p {
+    font-size: 21px;
+
+}
+
+
+
